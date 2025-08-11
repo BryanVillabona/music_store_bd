@@ -17,7 +17,211 @@
     "edicion especial"
   ],
   "label": {
-    "country": "Estados UNidos",
+    "country": "Estados Unidos",
     "name": "Atlantics Records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4edb"
+  },
+  "sku": "M034",
+  "tittle": "La cucharita se me perdio",
+  "artist": "Yhwrr Suarez",
+  "genre": "Vallenato",
+  "release_year": 1940,
+  "format": "otro Vinilo",
+  "price": 50300,
+  "stock": 3,
+  "rating": 2.5,
+  "tags": [
+    "clásico",
+    "fiesta"
+  ],
+  "label": {
+    "country": "Egipto",
+    "name": "Empanada records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4edc"
+  },
+  "sku": "M018",
+  "tittle": "Tengo hambre",
+  "artist": "Juan Camilo",
+  "genre": "Regueton",
+  "release_year": 1990,
+  "format": "tambien Vinilo",
+  "price": 70000,
+  "stock": 12,
+  "rating": 3.8,
+  "tags": [
+    "dormir",
+    "navideña",
+    "clásico"
+  ],
+  "label": {
+    "country": "Venezuela",
+    "name": "Granola records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4edd"
+  },
+  "sku": "M059",
+  "tittle": "Programacion avanzada",
+  "artist": "Kevin",
+  "genre": "Cumbia",
+  "release_year": 2001,
+  "format": "Vinilo 5",
+  "price": 65500,
+  "stock": 21,
+  "rating": 1.6,
+  "tags": [
+    "navideña",
+    "fiesta"
+  ],
+  "label": {
+    "country": "Arabia",
+    "name": "Granizada records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4ede"
+  },
+  "sku": "M012",
+  "tittle": "El pollito pio",
+  "artist": "Bryan V",
+  "genre": "Electronica",
+  "release_year": 1995,
+  "format": "Vinilo 8",
+  "price": 87000,
+  "stock": 7,
+  "rating": 4.7,
+  "tags": [
+    "relajante",
+    "niños",
+    "clásico"
+  ],
+  "label": {
+    "country": "Colombia",
+    "name": "Taquilla records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4edf"
+  },
+  "sku": "M025",
+  "tittle": "La cucaracha",
+  "artist": "Sebastian",
+  "genre": "Rock",
+  "release_year": 1998,
+  "format": "más vinilos",
+  "price": 26000,
+  "stock": 12,
+  "rating": 4.1,
+  "tags": [
+    "niños",
+    "relajante",
+    "descuento"
+  ],
+  "label": {
+    "country": "Ecuador",
+    "name": "Flauta records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4edg"
+  },
+  "sku": "M065",
+  "tittle": "Thriller",
+  "artist": "Nicolas Jackson",
+  "genre": "Vallenato",
+  "release_year": 2003,
+  "format": "Vinilo 2",
+  "price": 25000,
+  "stock": 7,
+  "rating": 4.4,
+  "tags": [
+    "clasico",
+    "movido",
+    "edicion especial"
+  ],
+  "label": {
+    "country": "Panama",
+    "name": "Lapicero records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4edh"
+  },
+  "sku": "M048",
+  "tittle": "Mi barba tiene 3 pelos",
+  "artist": "Daniel",
+  "genre": "Jazz",
+  "release_year": 1993,
+  "format": "Vinilo",
+  "price": 95000,
+  "stock": 8,
+  "rating": 2.8,
+  "tags": [
+    "clasico",
+    "navideña",
+    "edicion especial"
+  ],
+  "label": {
+    "country": "Mexico",
+    "name": "GPT records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4edi"
+  },
+  "sku": "M043",
+  "tittle": "Mi burrito sabanero",
+  "artist": "Jeferson",
+  "genre": "Rock",
+  "release_year": 1999,
+  "format": "otro Vinilo",
+  "price": 30000,
+  "stock": 1,
+  "rating": 3.6,
+  "tags": [
+    "bailable",
+    "invocaciones"
+  ],
+  "label": {
+    "country": "Colombia",
+    "name": "Empanada records"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4edj"
+  },
+  "sku": "M029",
+  "tittle": "La vaca lola",
+  "artist": "Andres Almeyda",
+  "genre": "Vallenato",
+  "release_year": 1995,
+  "format": "Vinilo",
+  "price": 46000,
+  "stock": 4,
+  "rating": 4.0,
+  "tags": [
+    "popular",
+    "triste",
+    "bailable"
+  ],
+  "label": {
+    "country": "Venezuela",
+    "name": "Martillo records"
   }
 }]
