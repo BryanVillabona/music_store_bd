@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6899d4b2178e40b4854f4eda"
+  },
+  "sku": "M101",
+  "tittle": "Back in Black",
+  "artist": "AC/DC",
+  "genre": "Rock",
+  "release_year": 1980,
+  "format": "Vinilo",
+  "price": 95000,
+  "stock": 8,
+  "rating": 4.9,
+  "tags": [
+    "clásico",
+    "coleccionable",
+    "edicion especial"
+  ],
+  "label": {
+    "country": "Estados UNidos",
+    "name": "Atlantics Records"
+  }
+}]
